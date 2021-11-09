@@ -15,9 +15,9 @@ Go to Shopify themes and under theme library click add theme dropdown and select
 We can now set this to our live theme only after double checking that everything is working properly!
 
 Lets set up our Dev Branch 
-run [git checkout -b <branchname>]
-if we want to rename after because just use [git branch -m <oldname><newname>]
-to switch between branches we can just use [git checkout <branchname>]
+run [git checkout -b branchname]
+if we want to rename after because just use [git branch -m oldname newname]
+to switch between branches we can just use [git checkout branchname]
 
 Now that we have our new branch we can add it to our theme library in shopify using the same method we did above for the master theme
 
